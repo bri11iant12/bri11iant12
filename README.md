@@ -31,8 +31,8 @@ Next.js, REST API, Тестирование (Jest/RTL)
 
 | Проект | Стек | Демо | Репозиторий |
 |--------|------|------|-------------|
-| **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app | 🔗 [ссылка на repo](https://github.com/bri11iant12/Cropped-Image) |
-| **Delivery Manager App** | JavaScript, localStorage, Classes | 🌐 https://delivery-git-main-maxims-projects-9e9af1d9.vercel.app | 🔗 [ссылка на repo](https://github.com/bri11iant12/delivery) |
+| **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/Cropped-Image) |
+| **Delivery Manager App** | JavaScript, localStorage, Classes | 🌐 https://delivery-seven-delta.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/delivery) |
 | **Online Shop UI** | React, Routing, Components | 🌐 ссылка | 🔗 ссылка на repo |
 
 > 💡 В каждом проекте фокусируюсь на логике и UX. Добавлю API и тесты в ближайшее время.
