@@ -20,9 +20,9 @@
 
 | Проект | Технологии | Демо | Код |
 |-------|------------|-----|-----|
-| Photo Cropper App | TS, Canvas, Parcel | 🌐 ссылка | 🔗 repo |
-| Delivery Manager App | JS, Classes, localStorage | 🌐 ссылка | 🔗 repo |
-| Online Shop UI | React, Routing, Components | 🌐 ссылка | 🔗 repo |
+| Photo Cropper App | TS, Canvas, Parcel | 🌐 cropped-image.vercel.app |
+| Delivery Manager App | JS, Classes, localStorage | 🌐 ссылка |
+| Online Shop UI | React, Routing, Components | 🌐 ссылка |
 
 ---
 
