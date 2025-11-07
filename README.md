@@ -1,31 +1,47 @@
-# About-me
+# 👋 Привет, я Maxim!
 
-### Привет! Я Maxim 👋  
-🎯 Стажёр Frontend-разработчик
-
-- 🔭 Сейчас учусь и практикую **React, TypeScript**
-- 🚀 Пишу понятный код и стараюсь соблюдать архитектуру
+🎯 Frontend-разработчик (стажер), который любит создавать удобные и живые интерфейсы
 
 ---
 
-### 🛠️ Технологии
-
-**Frontend:** HTML, CSS/Sass, JS, TypeScript  
-**Tools:** Git, npm, Webpack/Parcel, Figma  
-**Learning:** Next.js, Testing, React, REST API, Next.js
-
----
-
-### ⭐ Лучшие проекты
-
-| Проект | Технологии | Демо |
-|-------|------------|-----|-----|
-| Photo Cropper App | TS, Canvas, Parcel | 🌐 cropped-image.vercel.app |
-| Delivery Manager App | JS, Classes, localStorage | 🌐 delivery-git-main-maxims-projects-9e9af1d9.vercel.app , delivery-a299ydmk4-maxims-projects-9e9af1d9.vercel.app |
-| Online Shop UI | React, Routing, Components | 🌐 ссылка |
+### 🚀 Чем сейчас занимаюсь
+- Практикую **React** и **TypeScript**
+- Изучаю архитектуру приложений и UI-паттерны
+- Хочу расти в направлении **Frontend / Fullstack**
 
 ---
 
-### 📩 Контакты  
-📧 Email: fafafa01.01.1998@gmail.com  /  maxli022@mail.ru
-💼 Telegram: @bri11ik  
+### 🧩 Стек и инструменты
+
+**Основное:**  
+HTML, CSS / SASS, JavaScript (ES6+), TypeScript  
+
+**Фреймворки и библиотеки:**  
+React, Redux (в процессе изучения)  
+
+**Сборка и инструменты:**  
+Git, npm, Webpack, Parcel, Figma  
+
+**Изучаю:**  
+Next.js, REST API, Тестирование (Jest/RTL)
+
+---
+
+### ⭐ Избранные проекты
+
+| Проект | Стек | Демо | Репозиторий |
+|--------|------|------|-------------|
+| **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app | 🔗 [ссылка на repo](https://github.com/bri11iant12/Cropped-Image) |
+| **Delivery Manager App** | JavaScript, localStorage, Classes | 🌐 https://delivery-git-main-maxims-projects-9e9af1d9.vercel.app | 🔗 [ссылка на repo](https://github.com/bri11iant12/delivery) |
+| **Online Shop UI** | React, Routing, Components | 🌐 ссылка | 🔗 ссылка на repo |
+
+> 💡 В каждом проекте фокусируюсь на логике и UX. Добавлю API и тесты в ближайшее время.
+
+---
+
+### ✉️ Контакты для связи
+
+📩 Email: **fafafa01.01.1998@gmail.com**  **maxli022@mail.ru**
+💬 Telegram: **@bri11ik**  
+
+Открыт к стажировке и сотрудничеству 🚀
