@@ -21,7 +21,7 @@
 | Проект | Технологии | Демо | Код |
 |-------|------------|-----|-----|
 | Photo Cropper App | TS, Canvas, Parcel | 🌐 cropped-image.vercel.app |
-| Delivery Manager App | JS, Classes, localStorage | 🌐 delivery-git-main-maxims-projects-9e9af1d9.vercel.app | delivery-a299ydmk4-maxims-projects-9e9af1d9.vercel.app |
+| Delivery Manager App | JS, Classes, localStorage | 🌐 delivery-git-main-maxims-projects-9e9af1d9.vercel.app , delivery-a299ydmk4-maxims-projects-9e9af1d9.vercel.app |
 | Online Shop UI | React, Routing, Components | 🌐 ссылка |
 
 ---
