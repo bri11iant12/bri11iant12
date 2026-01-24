@@ -33,7 +33,7 @@ Next.js, REST API, Тестирование (Jest/RTL)
 |--------|------|------|-------------|
 | **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/Cropped-Image) |
 | **Delivery Manager App** | JavaScript, localStorage, Classes | 🌐 https://delivery-seven-delta.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/delivery) |
-| **Online Shop UI** | JavaScript, Routing, Components | 🌐 [online-shop-teal-ten.vercel.app](https://online-shop-teal-ten.vercel.app/) | 🔗 [ссылка на repo]([https://github.com/bri11iant12/delivery](https://github.com/bri11iant12/Online-shop) |
+| **Online Shop UI** | JavaScript, Routing, Components | 🌐 [online-shop-teal-ten.vercel.app](https://online-shop-teal-ten.vercel.app/) | 🔗 [ссылка на repo]([https://github.com/bri11iant12/Online-shop] |
 
 > 💡 В каждом проекте фокусируюсь на логике и UX. Добавлю API и тесты в ближайшее время.
 
