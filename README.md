@@ -1,47 +1,61 @@
 # 👋 Привет, я Maxim!
 
-🎯 Frontend-разработчик (стажер), который любит создавать удобные и живые интерфейсы
+🎯 **Frontend-разработчик (стажер)**  
+Люблю создавать удобные, понятные и «живые» интерфейсы с акцентом на UX и логику.
 
 ---
 
-### 🚀 Чем сейчас занимаюсь
+## 🚀 Чем сейчас занимаюсь
 - Практикую **React** и **TypeScript**
-- Изучаю архитектуру приложений и UI-паттерны
-- Хочу расти в направлении **Frontend / Fullstack**
+- Разбираюсь в архитектуре приложений и UI-паттернах
+- Развиваюсь в направлении **Frontend / Fullstack**
 
 ---
 
-### 🧩 Стек и инструменты
+## 🧩 Стек и инструменты
 
-**Основное:**  
-HTML, CSS / SASS, JavaScript (ES6+), TypeScript  
+### 🛠 Основное
+- HTML5, CSS3 / SASS  
+- JavaScript (ES6+), TypeScript  
 
-**Фреймворки и библиотеки:**  
-React, Redux (в процессе изучения)  
+### ⚛️ Фреймворки и библиотеки
+- React  
+- Redux *(в процессе изучения)*  
 
-**Сборка и инструменты:**  
-Git, npm, Webpack, Parcel, Figma  
+### 🔧 Сборка и инструменты
+- Git, npm  
+- Webpack, Parcel  
+- Figma  
 
-**Изучаю:**  
-Next.js, REST API, Тестирование (Jest/RTL)
+### 📚 Сейчас изучаю
+- Next.js  
+- REST API  
+- Тестирование (Jest, React Testing Library)
 
 ---
 
-### ⭐ Избранные проекты
+## ⭐ Избранные проекты
 
 | Проект | Стек | Демо | Репозиторий |
-|--------|------|------|-------------|
-| **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/Cropped-Image) |
-| **Delivery Manager App** | JavaScript, localStorage, Classes | 🌐 https://delivery-seven-delta.vercel.app/ | 🔗 [ссылка на repo](https://github.com/bri11iant12/delivery) |
-| **Online Shop UI** | JavaScript, Routing, Components | 🌐 [online-shop-teal-ten.vercel.app](https://online-shop-teal-ten.vercel.app/) | 🔗 [ссылка на repo]([https://github.com/bri11iant12/Online-shop] |
+|------|------|------|------------|
+| **Photo Cropper App** | TypeScript, Canvas, Parcel | 🌐 https://cropped-image.vercel.app/ | 🔗 https://github.com/bri11iant12/Cropped-Image |
+| **Delivery Manager App** | JavaScript, localStorage, OOP | 🌐 https://delivery-seven-delta.vercel.app/ | 🔗 https://github.com/bri11iant12/delivery |
+| **Online Shop UI** | JavaScript, Routing, Components | 🌐 https://online-shop-teal-ten.vercel.app/ | 🔗 https://github.com/bri11iant12/Online-shop |
+| **Weather App** | TypeScript, React, API | 🌐 https://weather-app-hazel-alpha-61.vercel.app/ | 🔗 repo в процессе |
 
-> 💡 В каждом проекте фокусируюсь на логике и UX. Добавлю API и тесты в ближайшее время.
+> 💡 В каждом проекте делаю упор на **логику, читаемость кода и UX**.  
+> Планирую добавить тесты и расширить работу с API.
 
 ---
 
-### ✉️ Контакты для связи
+## ✉️ Контакты
 
-📩 Email: **fafafa01.01.1998@gmail.com**  **maxli022@mail.ru**
-💬 Telegram: **@bri11ik**  
+📩 **Email:**  
+- fafafa01.01.1998@gmail.com  
+- maxli022@mail.ru  
 
-Открыт к стажировке и сотрудничеству 🚀
+💬 **Telegram:** @bri11ik  
+
+---
+
+🚀 **Открыт к стажировке и сотрудничеству**
