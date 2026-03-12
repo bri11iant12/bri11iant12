@@ -20,7 +20,7 @@
 
 ### ⚛️ Фреймворки и библиотеки
 - React  
-- Redux *(в процессе изучения)*  
+- Zustand  
 
 ### 🔧 Сборка и инструменты
 - Git, npm  
@@ -28,8 +28,7 @@
 - Figma  
 
 ### 📚 Сейчас изучаю
-- Next.js  
-- REST API  
+- Next.js    
 - Тестирование (Jest, React Testing Library)
 
 ---
