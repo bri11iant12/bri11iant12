@@ -16,11 +16,15 @@
 
 ### 🛠 Основное
 - HTML5, CSS3 / SASS  
-- JavaScript (ES6+), TypeScript  
+- JavaScript (ES6+), TypeScript
+- PostgreSQL
 
 ### ⚛️ Фреймворки и библиотеки
 - React  
-- Zustand  
+- Zustand
+- Node.js
+- Zod
+- Express
 
 ### 🔧 Сборка и инструменты
 - Git, npm  
